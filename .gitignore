@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+*.pkg
+.env
+.env.*
+.secrets*.json
+.fastgpt-plugin-debug/
+.DS_Store
